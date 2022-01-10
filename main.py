@@ -1,6 +1,6 @@
 from modulos import funciones as f
 
-
+#Variable que almacenara los valores de entrada y salida de 'dinero'.
 total = 0
 
 while True:
